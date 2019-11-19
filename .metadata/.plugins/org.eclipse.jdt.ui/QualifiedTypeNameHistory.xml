@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.corenetworks.javaprogrsistemas.beans.Empleado"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="Beans.Cliente"/>
+<fullyQualifiedTypeName name="Beans.Pedido"/>
+<fullyQualifiedTypeName name="beans.Animal"/>
+<fullyQualifiedTypeName name="beans.Gato"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="Testsbeans.TestConstante"/>
+<fullyQualifiedTypeName name="Beans.Empleado"/>
+<fullyQualifiedTypeName name="Beans.Gerente"/>
+<fullyQualifiedTypeName name="Beans.Director"/>
+<fullyQualifiedTypeName name="Beans.Departamento"/>
+<fullyQualifiedTypeName name="bean.Persona"/>
+<fullyQualifiedTypeName name="bean.Direccion"/>
+<fullyQualifiedTypeName name="bean.Habitacion"/>
+<fullyQualifiedTypeName name="bean.Casa"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

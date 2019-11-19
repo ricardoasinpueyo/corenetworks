@@ -1,0 +1,21 @@
+package main;
+
+import bean.Direccion;
+import bean.Persona;
+
+public class MainCasa {
+
+	public static void main(String[] args) {
+		Direccion direccionCasa = new Direccion();
+		//introducir los datos
+		
+		
+		Persona propietario = new Persona();
+		//introducir datos empresario
+		
+		Direccion direccionPropietario = new Direccion();
+		//introducir los datos de la direccion del propietario
+
+	}
+
+}

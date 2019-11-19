@@ -1,0 +1,38 @@
+package colecciones;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import bean.Coche;
+
+
+public class Test_Coche {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		Coche cocheNuevo = new Coche();
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("dame la matricula : ");
+		cocheNuevo.setMatricula(sc.next());
+			
+		System.out.println("dame la marca : ");
+		cocheNuevo.setMarca(sc.next());
+		
+		System.out.println("dame el modelo : ");		
+		cocheNuevo.setModelo(sc.next());
+		
+		
+		
+		
+	/*	
+		ArrayList<Coche> altaCoche = new ArrayList<C>();
+		altaCoche.add("matricula");
+		altaCoche.add("marca");
+		altaCoche.add("modelo");  */
+		}
+
+}

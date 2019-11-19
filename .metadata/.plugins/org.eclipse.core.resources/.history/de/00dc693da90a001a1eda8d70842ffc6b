@@ -1,0 +1,26 @@
+package MainPelicuas;
+
+import java.util.Scanner;
+
+public class Test_Peliculas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("ALTA DE PELICULA");
+		System.out.println("El titulo es : ");
+		System.out.println("Género : ");
+		System.out.println("Director : ");
+		System.out.println("Año de estreno : ");
+		
+		
+		
+		
+		
+		
+		
+		
+		sc.close();
+	}
+
+}

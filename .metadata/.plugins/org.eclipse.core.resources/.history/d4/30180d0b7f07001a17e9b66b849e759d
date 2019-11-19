@@ -1,0 +1,22 @@
+package bean;
+
+import java.util.ArrayList;
+
+public class Casa {
+	private double precio;
+	private ArrayList<Habitacion> listaHabitaciones;
+	private Persona propietario;
+	private Direccion direccion;
+	public Casa(double precio, ArrayList<Habitacion> listaHabitaciones, Persona propietario, Direccion direccion) {
+		super();
+		this.precio = precio;
+		this.listaHabitaciones = listaHabitaciones;
+		this.propietario = propietario;
+		this.direccion = direccion;
+	}
+	public Casa() {
+		super();
+	}
+	
+	
+}

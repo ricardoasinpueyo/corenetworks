@@ -1,0 +1,10 @@
+package MainPelicuas;
+
+public class Test_Peliculas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

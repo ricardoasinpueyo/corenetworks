@@ -1,0 +1,38 @@
+package MainPelicuas;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import Entidades.Pelicula;
+
+public class Test_Peliculas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		ArrayList<Pelicula>ListaPeliculas = new ArrayList<Pelicula>();
+		int opcion = 0;
+		
+		System.out.println("1- Alta Pelicula");
+		System.out.println("2- Alta Director");
+		System.out.println("0- Salir del programa");
+		
+		
+		
+		System.out.println("El titulo es : ");
+		System.out.println("Género : ");
+		System.out.println("Director : ");
+		System.out.println("Año de estreno : ");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		sc.close();
+	}
+
+}
